@@ -1250,6 +1250,8 @@ github.com/volatiletech/sqlboiler/v4 v4.6.0 h1:LJtSRVf5R6kHFWmtZXC4GdFuq7e7QNPs/
 github.com/volatiletech/sqlboiler/v4 v4.6.0/go.mod h1:tBWGn0ZDYngQr2QUTRpwmjiDIPOUI3mVqo/g5qizcew=
 github.com/volatiletech/strmangle v0.0.1 h1:UKQoHmY6be/R3tSvD2nQYrH41k43OJkidwEiC74KIzk=
 github.com/volatiletech/strmangle v0.0.1/go.mod h1:F6RA6IkB5vq0yTG4GQ0UsbbRcl3ni9P76i+JrTBKFFg=
+github.com/volatiletech/strmangle v0.0.6 h1:AdOYE3B2ygRDq4rXDij/MMwq6KVK/pWAYxpC7CLrkKQ=
+github.com/volatiletech/strmangle v0.0.6/go.mod h1:ycDvbDkjDvhC0NUU8w3fWwl5JEMTV56vTKXzR3GeR+0=
 github.com/willf/bitset v1.1.11-0.20200630133818-d5bec3311243/go.mod h1:RjeCKbqT1RxIR/KWY6phxZiaY1IyutSBfGjNPySAYV4=
 github.com/willf/bitset v1.1.11/go.mod h1:83CECat5yLh5zVOf4P1ErAgKA5UDvKtgyUABdr3+MjI=
 github.com/xanzy/go-gitlab v0.15.0 h1:rWtwKTgEnXyNUGrOArN7yyc3THRkpYcKXIXia9abywQ=
