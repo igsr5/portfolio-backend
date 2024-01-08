@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/aws/aws-lambda-go v1.31.1
-	github.com/cloudinary/cloudinary-go/v2 v2.1.0
+	github.com/cloudinary/cloudinary-go/v2 v2.7.0
 	github.com/friendsofgo/errors v0.9.2
 	github.com/getsentry/sentry-go v0.13.0
 	github.com/go-sql-driver/mysql v1.6.0
