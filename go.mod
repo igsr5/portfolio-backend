@@ -12,7 +12,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.15.2
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.5.9
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.5.0
 	github.com/igsr5/portfolio-proto/go v0.0.0-20220724195536-f55d98fec0f4
 	github.com/lithammer/shortuuid/v3 v3.0.7
